@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "John Doe",
+        "Email": "johndoe@example.com",
+        "CPF": "14849466850",
+        "CEP": "87301162",
+        "AddressNumber": "1452",
+        "AddressDetails": "Bloco 3"
+    },
+    {
+        "Name": "John Doe",
+        "Email": "johndoeexample.com",
+        "CPF": "14849466850",
+        "CEP": "87301162",
+        "AddressNumber": "1452",
+        "AddressDetails": "Bloco 3"
+    },
+    {
+        "Name": "John Doe",
+        "Email": "johndoe@example.com",
+        "CPF": "0000001a",
+        "CEP": "87301162",
+        "AddressNumber": "1452",
+        "AddressDetails": "Bloco 3"
+    }
+]
